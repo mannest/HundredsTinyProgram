@@ -5,3 +5,6 @@ list = ["You have a very thoughtful way of looking at things.",
         "You have a great sense of curiosity and willingness to learn.",
         "Your work shows real dedication and effort."    ]
 
+for i in list:
+    print(i)
+    
