@@ -3,3 +3,6 @@
 while True:
 
     user = input("Sten sax eller påse? \n")
+
+
+print("Test")
